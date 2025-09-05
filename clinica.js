@@ -25,3 +25,6 @@ const obj2 = {
 console.log(obj2.consultas.length)
 console.log(`já o meu outro paciente se chama ${obj2.dono.celular}.`);
 
+
+//console.log(obj2.consultas)
+//console.log(obj2.dono.nome);//
