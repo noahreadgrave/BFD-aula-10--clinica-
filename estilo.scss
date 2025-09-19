@@ -1,0 +1,35 @@
+$tamanhobase: 32px;
+$cor-p: blue;
+
+h1 {
+    font-size: $tamanhobase * 3;
+    background-color: aquamarine;
+    text-align: left;
+    font-size: $tamanhobase + 25;
+    background-color: brown;
+    color: $cor-p;
+}
+
+
+
+.m1 {
+    text-align: left;
+  
+}
+
+h3 {
+    font-size: $tamanhobase + 10;
+}
+
+
+.m3 {
+    text-align: left;
+     
+}
+
+.texto{
+
+    font-family: cursive;
+    font-style: italic;
+    display: inline;
+}

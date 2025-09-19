@@ -1,0 +1,28 @@
+h1 {
+  font-size: 96px;
+  background-color: aquamarine;
+  text-align: left;
+  font-size: 57px;
+  background-color: brown;
+  color: blue;
+}
+
+.m1 {
+  text-align: left;
+}
+
+h3 {
+  font-size: 42px;
+}
+
+.m3 {
+  text-align: left;
+}
+
+.texto {
+  font-family: cursive;
+  font-style: italic;
+  display: inline;
+}
+
+/*# sourceMappingURL=estilo.css.map */
